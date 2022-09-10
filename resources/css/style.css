@@ -396,3 +396,7 @@ footer .copyright {
   font-family: "Roboto Mono";
   color: #4a4a4a;
 }
+
+header {
+  z-index: 10000;
+}
