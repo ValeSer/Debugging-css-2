@@ -390,3 +390,9 @@ footer .copyright {
     font-size: .625rem;
   }
 }
+
+.logo {
+  font-size: 1.5rem;
+  font-family: "Roboto Mono";
+  color: #4a4a4a;
+}
