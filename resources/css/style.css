@@ -130,6 +130,8 @@ header .mobile, header .tablet {
   justify-content: flex-start;
   align-items: flex-start;
   height: 43.5rem;
+  padding-left: 6.25rem;
+  padding-top: 10.625rem;
 }
 
 #sign-up-section.banner {
