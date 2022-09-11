@@ -136,6 +136,7 @@ header .mobile, header .tablet {
 
 #sign-up-section.banner {
   background-image: url("../images/banner-landingpage.jpg");
+  background-repeat: no-repeat;
 }
 
 #sign-up-cta {
