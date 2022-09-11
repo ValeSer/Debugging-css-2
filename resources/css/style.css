@@ -130,8 +130,7 @@ header .mobile, header .tablet {
   justify-content: flex-start;
   align-items: flex-start;
   height: 43.5rem;
-  padding-left: 6.25rem;
-  padding-top: 10.625rem;
+  
 }
 
 #sign-up-section.banner {
@@ -140,10 +139,13 @@ header .mobile, header .tablet {
 }
 
 #sign-up-cta {
+  position: relative;
   padding: 0 5rem 2.5rem 5rem;
   border: solid 0.0625rem #979797;
   border-radius: 0.25rem;
   background-color: #9dc20b;
+  left: 6.25rem;
+  top: 10.625rem;
 }
 
 #sign-up-cta .content {
@@ -261,6 +263,10 @@ header .mobile, header .tablet {
   line-height: 1.2;
   font-weight: 300;
   color: #4a4a4a;
+}
+.image-container img {
+  width: 100%;
+  display: block;
 }
 
 @media only screen and (max-width: 890px) {
