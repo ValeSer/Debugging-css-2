@@ -320,6 +320,7 @@ header .mobile, header .tablet {
 }
 
 #filters-section .images-container {
+  display: flex;
   max-width: 100%;
   padding: 0 1%;
 }
